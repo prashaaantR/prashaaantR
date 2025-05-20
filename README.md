@@ -1,6 +1,6 @@
 ## 👋 Hello
 
-I'm Jar!
+I'm Prashant!
 - 🧮🔬 studying maths
 - 🔍 data explorer, 🌐 insight seeker
 - 🛠️ breaker and builder of thinggs
